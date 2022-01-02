@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @luizlpf.
 - 👀 I’m interested in new opportunities to work.
-- 🌱 I’m currently learning JavaSceipr world.
+- 🌱 I’m currently learning the world of JavaScript.
